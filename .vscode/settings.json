@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/schemas/v3.1/schema.json": [
+            "file:///home/u2220208/iot-bot-swagger/bot-brige/bot-brige.yml",
+            "file:///home/u2220208/iot-bot-swagger/main/main.yml"
+        ]
+    }
+}
